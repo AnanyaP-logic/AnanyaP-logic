@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**AnanyaP-logic/AnanyaP-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Learning Python
+💻 Interested in Web Development
+🤖 Building Discord Bots
+📚 Exploring GitHub
 
-Here are some ideas to get you started:
+## Goals
+- Learn Python
+- Create Discord bots
+- Build websites
+- Contribute to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting!
