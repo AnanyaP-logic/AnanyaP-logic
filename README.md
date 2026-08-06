@@ -5,7 +5,7 @@
 🤖 Building Discord Bots
 📚 Exploring GitHub
 
-## Goals
+## GOALS
 - Learn Python
 - Create Discord bots
 - Build websites
